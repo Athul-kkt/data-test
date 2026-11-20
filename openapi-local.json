@@ -12,7 +12,7 @@
   },
   "servers": [
     {
-      "url": "http://127.0.0.1:4400",
+      "url": "http://localhost:4400",
       "description": "Local environment"
     }
   ],
